@@ -1,2 +1,51 @@
-# Housing-Price-Predictor
-This project builds a simple ML model using Linear Regression to predict housing prices based on features like area, number of rooms, location, etc. The model is implemented and tested in a Jupyter, with steps data preprocessing,  (EDA), model training, evaluation.
+# 🏠 Housing Price Predictor using Linear Regression
+
+This repository contains a beginner-friendly machine learning project that predicts housing prices using **Linear Regression**, implemented in a **Jupyter Notebook**. The goal is to provide a simple yet comprehensive introduction to regression-based predictive modeling.
+
+## 📌 Project Overview
+
+In this project, we use a dataset containing features like square footage, number of bedrooms and bathrooms, location, and other housing details to predict the price of a house. The project walks through the complete machine learning pipeline, from loading and exploring the data to building and evaluating the model.
+
+## 📊 Key Steps
+
+1. **Data Loading and Preprocessing**
+   - Reading the dataset using pandas
+   - Handling missing values
+   - Encoding categorical variables
+   - Feature scaling
+
+2. **Exploratory Data Analysis (EDA)**
+   - Visualizing relationships between variables
+   - Identifying outliers
+   - Correlation analysis using heatmaps
+
+3. **Model Building**
+   - Implementing Linear Regression using scikit-learn
+   - Splitting the dataset into training and testing sets
+
+4. **Model Evaluation**
+   - Calculating evaluation metrics:  
+     - Mean Squared Error (MSE)  
+     - Root Mean Squared Error (RMSE)  
+     - R² Score
+   - Interpreting model performance
+
+## 🛠️ Technologies Used
+
+- Python 🐍
+- Jupyter Notebook 📒
+- Pandas
+- NumPy
+- Matplotlib & Seaborn (for data visualization)
+- scikit-learn (for machine learning)
+
+## 📁 Dataset
+
+> The dataset used can be from sources like [Kaggle](https://www.kaggle.com/) or [UCI Machine Learning Repository](https://archive.ics.uci.edu/). Please include or link your dataset in the repo or provide download instructions.
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/housing-price-predictor.git
+   cd housing-price-predictor
