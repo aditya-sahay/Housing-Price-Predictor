@@ -58,4 +58,4 @@ In this project, we use a dataset containing features like square footage, numbe
 
 4. Open the notebook:
  ```bash
- jupyter notebook Housing_Price_Predictor.ipynb
+ jupyter notebook Housing_Price_Prediction.ipynb
