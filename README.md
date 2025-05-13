@@ -41,7 +41,7 @@ In this project, we use a dataset containing features like square footage, numbe
 
 ## 📁 Dataset
 
-> The dataset used can be from sources like [Kaggle](https://www.kaggle.com/) or [UCI Machine Learning Repository](https://archive.ics.uci.edu/). Please include or link your dataset in the repo or provide download instructions.
+> The dataset used can be from sources like [Kaggle](https://www.kaggle.com/) or [UCI Machine Learning Repository](https://archive.ics.uci.edu/). The file in included in the above repo.
 
 ## 🚀 Getting Started
 
@@ -49,3 +49,13 @@ In this project, we use a dataset containing features like square footage, numbe
    ```bash
    git clone https://github.com/your-username/housing-price-predictor.git
    cd housing-price-predictor
+
+2. Make a virtual environment
+   
+3. Install the dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+4. Open the notebook:
+ ```bash
+ jupyter notebook Housing_Price_Predictor.ipynb
