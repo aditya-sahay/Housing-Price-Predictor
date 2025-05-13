@@ -17,7 +17,6 @@ In this project, we use a dataset containing features like square footage, numbe
 2. **Exploratory Data Analysis (EDA)**
    - Visualizing relationships between variables
    - Identifying outliers
-   - Correlation analysis using heatmaps
 
 3. **Model Building**
    - Implementing Linear Regression using scikit-learn
@@ -25,8 +24,7 @@ In this project, we use a dataset containing features like square footage, numbe
 
 4. **Model Evaluation**
    - Calculating evaluation metrics:  
-     - Mean Squared Error (MSE)  
-     - Root Mean Squared Error (RMSE)  
+     - Mean Squared Error (MSE)    
      - R² Score
    - Interpreting model performance
 
@@ -36,7 +34,7 @@ In this project, we use a dataset containing features like square footage, numbe
 - Jupyter Notebook 📒
 - Pandas
 - NumPy
-- Matplotlib & Seaborn (for data visualization)
+- Matplotlib (for data visualization)
 - scikit-learn (for machine learning)
 
 ## 📁 Dataset
